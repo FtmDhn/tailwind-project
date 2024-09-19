@@ -11,8 +11,6 @@
 
 - 🕜 Created - 2024-09-19
 
-- Technologies Used - Html , css , tailwind
-
 - Hooks Used : useState 
 
 - Role - Frontend
