@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: manrope;
+    src: url("../font/Manrope-Regular.ttf") format("opentype");
+  }
+
+
+@keyframes anime1 {
+    to {
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    }
+}
+
+@keyframes anime2 {
+    to {
+        border-radius: 69% 31% 85% 15% / 16% 61% 39% 84%;
+    }
+}
